@@ -12,20 +12,20 @@ O CISE foi criado para integrar dados de secretarias que hoje operam em silos, e
 ---
 
 ## 1. Escopo do Piloto (KPIs Oficiais)
-O painel monitora 5 indicadores preventivos com atualização **semanal** e recorte territorial por **bairro**[cite: 22, 23]:
+O painel monitora 5 indicadores preventivos com atualização **semanal** e recorte territorial por **bairro**:
 
 1.  **Saneamento:** Disponibilidade da rede (Pressão/Vazão)[cite: 100].
-2.  **Energia Crítica:** Estabilidade elétrica (Autonomia de geradores em hospitais)[cite: 101, 102].
-3.  **Defesa Civil:** Índice de Vulnerabilidade de Encostas (Saturação do solo)[cite: 103, 104].
-4.  **Mobilidade:** Fluidez de emergência (Tempo de resposta em vias arteriais)[cite: 106, 107].
-5.  **Saúde:** Prontidão de insumos (Estoque de medicamentos críticos e oxigênio)[cite: 109, 110].
+2.  **Energia Crítica:** Estabilidade elétrica (Autonomia de geradores em hospitais).
+3.  **Defesa Civil:** Índice de Vulnerabilidade de Encostas (Saturação do solo).
+4.  **Mobilidade:** Fluidez de emergência (Tempo de resposta em vias arteriais).
+5.  **Saúde:** Prontidão de insumos (Estoque de medicamentos críticos e oxigênio).
 
->**Fora do Escopo:** Prontuários individuais e dados nominais, visando a minimização de riscos de privacidade[cite: 114].
+>**Fora do Escopo:** Prontuários individuais e dados nominais, visando a minimização de riscos de privacidade.
 
 ---
 
 ## 2. Matriz de Responsabilidade (RACI)
-[cite_start]A governança equilibra a autonomia das secretarias com a padronização centralizada do CISE[cite: 127, 129]:
+[cite_start]A governança equilibra a autonomia das secretarias com a padronização centralizada do CISE:
 
 | Atividade | Data Owner (Secretário) | Data Steward (Técnico) | Custodiante (TI CISE) |
 | :--- | :---: | :---: | :---: |
